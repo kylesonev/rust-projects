@@ -20,5 +20,5 @@ fn main() {
     spaces2 = "qwerty"; // mesma variável com o mesmo tipo
     println!("O valor de spaces2 é: {spaces2}");
 
-    //spaces2 = 5; //spaces2.len();		// valor é mutável, o tipo não é mutável
+    // spaces2 = 5; //spaces2.len();		// valor é mutável, o tipo não é mutável
 }
